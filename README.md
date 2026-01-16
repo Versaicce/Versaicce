@@ -11,7 +11,7 @@ Saya menikmati proses mengubah ide dan desain menjadi antarmuka yang bisa langsu
 
 ![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0ZWs4bTFxZ3Bkb2UwYnp0N2NzaXc3OGd0NTJwd3FpMTNxcWZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
-### **Saat ini saya sedang belajar lagi:**
+### **Saat ini saya masih terus belajar:**
 
 a. Mengembangkan project website front-end dengan fokus UI/UX
 
