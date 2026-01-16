@@ -1,3 +1,6 @@
+![alt text](https://giphy.com/explore/scrolling-code?raw=true)
+
+
 ## 👋 Hi, I’m Mochammad Fajar
 
 Saya seorang Fresh Graduate UI/UX Designer dan Front-End Web Developer yang suka membuat tampilan website yang sederhana, nyaman digunakan, dan enak dilihat. 
