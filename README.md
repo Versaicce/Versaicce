@@ -12,12 +12,13 @@ Terbiasa mengubah ide dan desain menjadi implementasi yang siap digunakan, serta
 ![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0ZWs4bTFxZ3Bkb2UwYnp0N2NzaXc3OGd0NTJwd3FpMTNxcWZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### **Saat ini saya masih terus belajar:**
+1. Mengembangkan project website front-end dengan fokus pada UI/UX dan pengalaman pengguna
 
-a. Mengembangkan project website front-end dengan fokus UI/UX
+2. Mempelajari dan menerapkan teknologi serta framework web modern
 
-b. Terus belajar teknologi dan framework web modern
+3. Mengerjakan project pribadi untuk meningkatkan skill teknis dan memperkuat portofolio
 
-c. Mengerjakan project pribadi untuk meningkatkan skill dan portofolio
+4. Mempelajari Machine Learning menggunakan Python untuk analisis data dan pengembangan model sederhana
 
 # 🛠 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
