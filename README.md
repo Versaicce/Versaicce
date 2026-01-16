@@ -1,4 +1,3 @@
-![alt text]([[img\github-header-banner.png](https://drive.google.com/file/d/14XDDr4DGi8tIDxex7D_lIVEC22VBjXNk/view?usp=drive_link](https://github.com/user-attachments/assets/b4c36825-ced2-40f9-9041-05e692fb99cc))
 
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/b4c36825-ced2-40f9-9041-05e692fb99cc" />
 
