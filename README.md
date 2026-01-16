@@ -20,7 +20,7 @@ b. Terus belajar teknologi dan framework web modern
 c. Mengerjakan project pribadi untuk meningkatkan skill dan portofolio
 
 # 🛠 Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,jupyter,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
 
 ### **Beberapa tools yang saya gunakan:**
 
