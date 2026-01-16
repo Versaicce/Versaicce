@@ -1,4 +1,4 @@
-![alt text](https://giphy.com/explore/scrolling-code?raw=true)
+![alt text]([https://giphy.com/explore/scrolling-code](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgiPYrFXZ_b3ma8W7m6U00IRvToBJSM3tcBQ&s)?raw=true)
 
 
 ## 👋 Hi, I’m Mochammad Fajar
