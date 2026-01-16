@@ -20,15 +20,16 @@ b. Terus belajar teknologi dan framework web modern
 c. Mengerjakan project pribadi untuk meningkatkan skill dan portofolio
 
 # 🛠 Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,jupyter,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
 
 ### **Beberapa tools yang saya gunakan:**
-
-Design with Figma
+Design: Figma
 
 Front-End: HTML, CSS, JavaScript, Bootstrap
 
-Back-End (Basic): PHP, Laravel
+Back-End: PHP, Laravel
+
+Machine Learning: Python, JupyterLab, Scikit-learn
 
 Version Control: Git & GitHub
 
