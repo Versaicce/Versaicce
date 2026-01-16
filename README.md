@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Faris
+## 👋 Hi, I’m Mochammad Fajar
 
 Saya seorang Fresh Graduate UI/UX Designer dan Front-End Web Developer yang suka membuat tampilan website yang sederhana, nyaman digunakan, dan enak dilihat. 
 Saya menikmati proses mengubah ide dan desain menjadi antarmuka yang bisa langsung digunakan oleh pengguna.
