@@ -3,7 +3,7 @@
 
 # 👋 Hello World!
 
-Saya adalah UI/UX Designer dan Front-End Web Developer dengan fokus pada pembuatan antarmuka website yang user-friendly, responsif, dan fungsional.
+Hanya seorang UI/UX Designer dan Front-End Web Developer dengan fokus pada pembuatan antarmuka website yang user-friendly, responsif, dan fungsional.
 
 Terbiasa mengubah ide dan desain menjadi implementasi yang siap digunakan, serta memiliki ketertarikan untuk mengembangkan solusi berbasis Machine Learning guna meningkatkan kualitas dan pengalaman pengguna.
 
@@ -23,15 +23,13 @@ c. Mengerjakan project pribadi untuk meningkatkan skill dan portofolio
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
 
 ### **Beberapa tools yang saya gunakan:**
-Design: Figma
+🎨 Design: Mendesain antarmuka menggunakan Figma dengan fokus pada UI yang rapi dan nyaman digunakan.
 
-Front-End: HTML, CSS, JavaScript, Bootstrap
+💻 Front-End Development: Mengembangkan tampilan website menggunakan HTML, CSS, JavaScript, dan Bootstrap agar responsif dan user-friendly.
 
-Back-End: PHP, Laravel
+⚙️ Framework: Menggunakan Laravel untuk membangun aplikasi web yang terstruktur dan efisien.
 
-Machine Learning: Python, JupyterLab, Scikit-learn
-
-Version Control: Git & GitHub
+🤖 Machine Learning: Mempelajari dan mengembangkan model sederhana menggunakan Python, dengan JupyterLab dan Scikit-learn untuk analisis data.
 
 # 📫 Let’s Connect
 
