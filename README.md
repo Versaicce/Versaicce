@@ -12,6 +12,18 @@ a. Mengembangkan project website front-end dengan fokus UI/UX
 b. Terus belajar teknologi dan framework web modern
 
 c. Mengerjakan project pribadi untuk meningkatkan skill dan portofolio
+
+## 🛠 Tools & Technologies
+
+Beberapa tools yang saya gunakan:
+
+Design: Figma
+
+Front-End: HTML, CSS, JavaScript, Bootstrap
+
+Back-End (Basic): PHP, Laravel
+
+Version Control: Git & GitHub
 <!--
 **Versaicce/Versaicce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
