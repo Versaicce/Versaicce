@@ -3,9 +3,9 @@
 
 # 👋 Hello World!
 
-Saya seorang UI/UX Designer dan Front-End Web Developer yang suka membuat tampilan website yang sederhana, nyaman digunakan, dan enak dilihat. 
+Saya adalah UI/UX Designer dan Front-End Web Developer dengan fokus pada pembuatan antarmuka website yang user-friendly, responsif, dan fungsional.
 
-Saya menikmati proses mengubah ide dan desain menjadi antarmuka yang bisa langsung digunakan oleh pengguna.
+Terbiasa mengubah ide dan desain menjadi implementasi yang siap digunakan, serta memiliki ketertarikan untuk mengembangkan solusi berbasis Machine Learning guna meningkatkan kualitas dan pengalaman pengguna.
 
 # 🚀 What I’m Currently Working On
 
