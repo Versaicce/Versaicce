@@ -3,38 +3,35 @@
 
 # 👋 Hello World!
 
-Hanya seorang UI/UX Designer dan Front-End Web Developer dengan fokus pada pembuatan antarmuka website yang user-friendly, responsif, dan fungsional.
+I am a UI/UX Designer and Front-End Web Developer focused on building user-friendly, responsive, and functional web interfaces.
 
-Terbiasa mengubah ide dan desain menjadi implementasi yang siap digunakan, serta memiliki ketertarikan untuk mengembangkan solusi berbasis Machine Learning guna meningkatkan kualitas dan pengalaman pengguna.
-
-# 🚀 What I’m Currently Working On
+I enjoy turning ideas and designs into real, ready-to-use implementations, and I am also interested in developing Machine Learning–based solutions to enhance product quality and user experience.
+# 🚀 Currently Learning & Working On
 
 ![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0ZWs4bTFxZ3Bkb2UwYnp0N2NzaXc3OGd0NTJwd3FpMTNxcWZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
-### **Saat ini saya masih terus belajar:**
-1. Mengembangkan project website front-end dengan fokus pada UI/UX dan pengalaman pengguna
+1. Developing front-end web projects with a strong focus on UI/UX and user experience
 
-2. Mempelajari dan menerapkan teknologi serta framework web modern
+2. Learning and applying modern web technologies and frameworks
 
-3. Mengerjakan project pribadi untuk meningkatkan skill teknis dan memperkuat portofolio
+3. Working on personal projects to improve technical skills and strengthen my portfolio
 
-4. Mempelajari Machine Learning menggunakan Python untuk analisis data dan pengembangan model sederhana
+4. Exploring Machine Learning using Python for data analysis and building simple models
 
 # 🛠 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
 
-### **Beberapa tools yang saya gunakan:**
-🎨 Design: Mendesain antarmuka menggunakan Figma dengan fokus pada UI yang rapi dan nyaman digunakan.
+1. Design: Figma for creating clean and user-friendly interfaces
 
-💻 Front-End Development: Mengembangkan tampilan website menggunakan HTML, CSS, JavaScript, dan Bootstrap agar responsif dan user-friendly.
+2. Front-End: HTML, CSS, JavaScript, and Bootstrap for responsive web development
 
-⚙️ Framework: Menggunakan Laravel untuk membangun aplikasi web yang terstruktur dan efisien.
+3. Framework: Laravel for building structured web applications
 
-🤖 Machine Learning: Mempelajari dan mengembangkan model sederhana menggunakan Python, dengan JupyterLab dan Scikit-learn untuk analisis data.
+4. Machine Learning: Python with JupyterLab and Scikit-learn for data analysis and simple models
 
 # 📫 Let’s Connect
 
-### **Saya terbuka untuk berdiskusi, belajar bersama, atau kolaborasi:**
+### **I am open to discussing, learning together, or collaborating:**
 
 📧 Email: mochammadfajarrizqul@gmail.com
 
