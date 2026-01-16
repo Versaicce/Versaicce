@@ -24,6 +24,17 @@ Front-End: HTML, CSS, JavaScript, Bootstrap
 Back-End (Basic): PHP, Laravel
 
 Version Control: Git & GitHub
+
+📫 Let’s Connect
+
+Saya terbuka untuk berdiskusi, belajar bersama, atau kolaborasi:
+
+📧 Email: mochammadfajarrizqul@email.com
+
+💼 LinkedIn: linkedin.com/in/-
+
+<i class="fa-brands fa-youtube" style="color: #ff0000;"></i>
+🌐 Portfolio: Jarsofcode
 <!--
 **Versaicce/Versaicce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
