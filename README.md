@@ -18,7 +18,7 @@ I enjoy turning ideas and designs into real, ready-to-use implementations, and I
 
 4. Exploring Machine Learning using Python for data analysis and building simple models
 
-# 🛠 Tools & Technologies
+# 🛠 Tools & Technologies I Got Hands-On With
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,js,html,css,laravel,bootstrap,figma)](https://skillicons.dev)
 
 1. Design: Figma for creating clean and user-friendly interfaces
