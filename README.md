@@ -10,7 +10,7 @@ I enjoy turning ideas and designs into real, ready-to-use implementations, and I
 
 ![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0ZWs4bTFxZ3Bkb2UwYnp0N2NzaXc3OGd0NTJwd3FpMTNxcWZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
-1. Developing front-end web projects with a strong focus on UI/UX and user experience
+1. Developing front-end web or mobile app projects with a strong focus on UI/UX and user experience
 
 2. Learning and applying modern web technologies and frameworks
 
